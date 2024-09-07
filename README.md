@@ -20,5 +20,5 @@ Welcome to the **Gambling Python System**! This project is a simple yet fun impl
 1. **Clone the Repository**:
    ```bash
    git clone https://github.com/yourusername/GAMBLING_PYTHON_SYS.git
-cd GAMBLING_PYTHON_SYS
-python main.py
+   cd GAMBLING_PYTHON_SYS
+   python main.py
