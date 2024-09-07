@@ -5,7 +5,7 @@ Welcome to the **Gambling Python System**! This project is a simple yet fun impl
 ## 🚀 Features
 
 - **777 Game**: Spin the lucky numbers and see if you hit the jackpot! 💰
-- **Blackjack**: Play against the dealer and try to get as close to 21 as possible without going over! ♠️♥️
+- **Blackjack**: {working on it} Play against the dealer and try to get as close to 21 as possible without going over! ♠️♥️
 - **Rock, Paper, Scissors**: A classic game where you can challenge the computer! ✂️📄🪨
 
 ## 💻 Getting Started
