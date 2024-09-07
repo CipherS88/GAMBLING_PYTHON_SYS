@@ -28,9 +28,9 @@ Welcome to the **Gambling Python System**! This project is a simple yet fun impl
    cd GAMBLING_PYTHON_SYS or name of python file like python main.py
 
 
-3. Install Pygame (if you want to play Blackjack):
+3. Install tkinter (if you want to play Blackjack):
    ```bash
-   pip install pygame
+   pip install tkinter
 
    
 4. Run the Game:
