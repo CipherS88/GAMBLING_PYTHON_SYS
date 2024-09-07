@@ -7,7 +7,6 @@ Welcome to the **Gambling Python System**! This project is a simple yet fun impl
 - **777 Game**: Spin the lucky numbers and see if you hit the jackpot! 💰
 - **Blackjack**: Play against the dealer and try to get as close to 21 as possible without going over! ♠️♥️  
   *Note: The Blackjack game is implemented separately using Pygame for a more interactive experience!*
-
 - **Rock, Paper, Scissors**: A classic game where you can challenge the computer! ✂️📄🪨
 
 ## 💻 Getting Started
@@ -23,22 +22,17 @@ Welcome to the **Gambling Python System**! This project is a simple yet fun impl
 1. **Clone the Repository**:
    ```bash
    git clone https://github.com/yourusername/GAMBLING_PYTHON_SYS.git
-Navigate to the Project Directory:
-bash
 
-Copy
-cd GAMBLING_PYTHON_SYS
-Install Pygame (if you want to play Blackjack):
-bash
+2. **Navigate to the Project Directory:**:
+   ```bash
+   cd GAMBLING_PYTHON_SYS or name of python file like python main.py
 
-Copy
-pip install pygame
-Run the Game:
-bash
 
-Copy
-python main.py
-🎮 How to Play
-Choose a game by entering the corresponding number.
-Follow the prompts to place your bets and play!
-Keep an eye on your wallet balance as you play. Good luck! 🍀
+3. Install Pygame (if you want to play Blackjack):
+   ```bash
+   pip install pygame
+
+   
+4. Run the Game:
+    ```bash
+   python main.py
