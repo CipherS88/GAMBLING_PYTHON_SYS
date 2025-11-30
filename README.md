@@ -1,38 +1,38 @@
+<div align="center">
+
 # 🎰 Gambling Python System
+### *My First Python Arcade*
 
-Welcome to the **Gambling Python System**! This project is a simple yet fun implementation of various gambling games using Python. Get ready to test your luck! 🍀
+<br>
 
-## 🚀 Features
+> *A simple, fun collection of games from my early coding days. Get ready to test your luck!* 🍀
 
-- **777 Game**: Spin the lucky numbers and see if you hit the jackpot! 💰
-- **Blackjack**: Play against the dealer and try to get as close to 21 as possible without going over! ♠️♥️  
-  *Note: The Blackjack game is implemented separately using Pygame for a more interactive experience!*
-- **Rock, Paper, Scissors**: A classic game where you can challenge the computer! ✂️📄🪨
+<br>
+
+![Python](https://img.shields.io/badge/Python-Classic-blue?style=for-the-badge&logo=python&logoColor=white)
+
+</div>
+
+---
+
+## 🚀 The Games
+Here are the three ways you can lose (or win!) your virtual money.
+
+* **🎰 777 Jackpot:** Spin the lucky numbers! If you hit the triple 7, you're rich. 💰
+* **♠️ Blackjack:** Play against the dealer.
+* **✂️ Rock, Paper, Scissors:** The classic challenge against the computer. 📄🪨
+
+---
 
 ## 💻 Getting Started
 
-### Prerequisites
+### Prerequisites 🛠️
+To run this arcade, you'll need a few things:
+* Python 3.6+
 
-- Python 3.6 or higher
-- Basic knowledge of Python and command line usage
-- Pygame library (for the Blackjack game)
+### 📥 Installation
 
-### Installation
+**1. Clone the Repository:**
+```bash
+git clone [https://github.com/yourusername/GAMBLING_PYTHON_SYS.git](https://github.com/yourusername/GAMBLING_PYTHON_SYS.git)
 
-1. **Clone the Repository**:
-   ```bash
-   git clone https://github.com/yourusername/GAMBLING_PYTHON_SYS.git
-
-2. **Navigate to the Project Directory:**:
-   ```bash
-   cd GAMBLING_PYTHON_SYS or name of python file like python main.py
-
-
-3. Install tkinter (if you want to play Blackjack):
-   ```bash
-   pip install tkinter
-
-   
-4. Run the Game:
-    ```bash
-   python main.py
